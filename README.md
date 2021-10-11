@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到王同理的个人博客
 
 You can use the [editor on GitHub](https://github.com/wtlaidh/wtlaidh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
